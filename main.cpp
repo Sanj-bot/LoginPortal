@@ -11,7 +11,7 @@ int main()
 	// display interface
 	
 	
-	cout<<"      Security System"<<endl;
+	cout<<"      Login Portal"<<endl;
 	cout<<"______________________________"<<endl<<endl;
 	cout<<"|		1. Register          |"<<endl;
 	cout<<"|		2. Login             |"<<endl;
